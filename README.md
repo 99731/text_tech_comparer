@@ -4,3 +4,5 @@ This project aims to survey the text processing techniques that transform raw te
 
 To be continued... test
 https://www.baidu.com/
+
+https://github.com/99731/text_tech_comparer/blob/master/Word2Vec
