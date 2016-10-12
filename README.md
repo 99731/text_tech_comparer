@@ -6,3 +6,4 @@ To be continued... test
 https://www.baidu.com/
 
 https://github.com/99731/text_tech_comparer/blob/master/Word2Vec
+<p><a href="https://github.com/99731/text_tech_comparer/blob/master/Word2Vec">word2vec</a> has notitle attribute.</p>
